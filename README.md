@@ -9,7 +9,7 @@ I have given two ways to do this<br>
 <code>bash phishing.sh<br></code>
 You get the choices you want to hack...<br>
 <b>Note for Non-linux users</b> : This will run only on Linux machines, you can download virtualbox (windows) or Termux (Android)
-<h32.BruteForce</h3><br>
+<h3>2.BruteForce</h3><br>
 <code>apt install tor</code> (<code>pkg install tor</code> for Termux)<br>
 <code>git clone https://github.com/IndianCodr/Insta-Hack<br></code>
 <code>cd Insta-Hack<br></code>
